@@ -55,3 +55,5 @@ Combine the gender ratio of tech companies with more than %100 occupancy and the
 22.  for a company with an employee handbook that is all about protecting and absolving the company while imposing an undue burden of petty rules on the employees, including interfering with things that are none of the companies business such as alcohol consumption outside of work.
 
 23. For a company that uses stack ranking in any form.
+
+24. for a company that doesn't put time and attention into the benefits they offer employees.  EG: if your 401k only allows expensive index funds, or the health plan sucks, etc.
