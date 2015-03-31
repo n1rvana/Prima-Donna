@@ -41,13 +41,13 @@ Never work...
 16. for a company that has a lot of restrictions about vacation and doesn't treat it as real (eg: you don't get all your days when you leave, bad PTO policies, etc)
 
 17. in any office without adequate bathrooms, this includes any buildings where people are packed like sardines. 
-18. Combine the gender ratio of tech companies with more than %100 occupancy and the bathrooms are insufficient
+Combine the gender ratio of tech companies with more than %100 occupancy and the bathrooms are insufficient
 
-18. in any setup with less than a dual thunderbolt display, or single 35"4k monitory.
+18. in any setup with less than a dual thunderbolt display, or single 35" 4k monitor.
 
-19. on windows on a regular basis
+19. on [windows, or other undesired operating system] on a regular basis
 
-20. where my development machine can't be a Mac
+20. where my development machine can't be a [of the operating systrem of my choice]
 
 21. for a company that does drug testing on employees, or even reserves the right to do so
 
