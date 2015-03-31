@@ -3,6 +3,7 @@
 This is the list of "Demands" for future employers.  This isn't meant to be an inflexible list-- missing a few of these could be ok.  All of them are meant to be red flags that an employer doesn't sufficiently resect employees, or isn't going to be around long enough for equity to pay off.
 
 Never work...
+
 0. where you're not getting equity along with a paycheck, or where you can't ask the CFO how many shares are outstanding on a fully diluted basis, and get an answer, during your interview.
 
 1. for a manager who is not an engineer, unless you're the CTO.
